@@ -50,3 +50,8 @@ covering Jan 1 – May 5, 2026 (125 days: 58 pre-war + 67 war crisis days).
 6. Crisis severity distribution (pie chart)
 7. Cumulative vessel attacks
 8. Carrier operations status heatmap (Maersk, CMA CGM, Hapag-Lloyd, COSCO, MSC)
+# Hormuz Strait analysis project
+## Dashboard Preview
+! [Dashboard](hormuz_dashboard.png)
+## Carrier Analysis
+![Carriers](hormuz_carriers.png)
